@@ -15,7 +15,7 @@ headers = {
 'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0'
 	}
 print('verson:0.1')
-print("欢迎使用本英->汉词典，作者为HeimaoLST")
+print("欢迎使用本英->汉词典(事实上也可以汉->英)，作者为HeimaoLST")
 print('遇到bug的话不用通知我，你们说的其实我都知道，只是不想改罢了(')
 print('PS：代码开源了，知道怎么解决的话最好帮我修一下')
 print('未来它可能会更新，希望它能帮到你')
